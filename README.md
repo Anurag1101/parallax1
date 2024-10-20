@@ -24,29 +24,21 @@ This is a simple parallax scrolling website showcasing adventure activities like
     ├── sport-2.jpg      # Image for paragliding section
     ├── sport-3.jpg      # Image for surfing section
 
-Technologies Used
-HTML5: Markup for structuring the webpage.
-Tailwind CSS: Utility-first CSS framework for styling.
-CSS3: Custom styles for the parallax effects and layout adjustments.
-How to Use
-Clone the repository:
+**Technologies Used**:
 
-bash
-Copy code
-git clone <repository-url>
-Navigate to the project folder:
+**HTML5:** Markup for structuring the webpage.
 
-bash
-Copy code
-cd parallax-website
-Open index.html in your browser:
+**Tailwind CSS:**  Utility-first CSS framework for styling.
 
-bash
-Copy code
-open index.html
-Customize the images in the background, foreground, and sports sections as needed.
+**CSS3:**  Custom styles for the parallax effects and layout adjustments.
 
-Screenshots
+**How to Use**:
 
-License
+    Clone the repository: git clone <repository-url>
+    Navigate to the project folder: cd parallax-website
+    Open index.html in your browser:open index.html
+    Customize the images in the background, foreground, and sports sections as needed.
+
+**License**:
+
 This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.
