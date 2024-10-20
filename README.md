@@ -5,9 +5,13 @@ This is a simple parallax scrolling website showcasing adventure activities like
 **Features**:
 
 **Parallax Scrolling:** Multi-layered background and foreground images that move at different speeds, creating a 3D depth effect.
-Responsive Design: The layout adjusts for different screen sizes.
-Adventure Sections: Dedicated sections for adventure sports like biking, paragliding, and surfing.
-Clean and Minimal Design: Uses Tailwind CSS for a simple and clean look with smooth transitions.
+
+**Responsive Design:**  The layout adjusts for different screen sizes.
+
+**Adventure Sections:**  Dedicated sections for adventure sports like biking, paragliding, and surfing.
+
+**Clean and Minimal Design:**  Uses Tailwind CSS for a simple and clean look with smooth transitions.
+
 Project Structure
 plaintext
 Copy code
