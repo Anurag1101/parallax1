@@ -1,4 +1,5 @@
-Parallax Adventure Website
+**Parallax Adventure Website**
+
 This is a simple parallax scrolling website showcasing adventure activities like biking, paragliding, and surfing. The project is built with HTML and Tailwind CSS, demonstrating parallax effects with background images and descriptive text sections.
 
 Features
