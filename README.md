@@ -12,18 +12,18 @@ This is a simple parallax scrolling website showcasing adventure activities like
 
 **Clean and Minimal Design:**  Uses Tailwind CSS for a simple and clean look with smooth transitions.
 
-Project Structure
-plaintext
-Copy code
-parallax-website/
-│
-├── index.html       # Main HTML file for the website
-├── parallax.css     # Custom CSS file for styling and parallax effect
-├── background.png   # Background image used in the parallax container
-├── foreground.png   # Foreground image used in the parallax container
-├── sport-1.jpg      # Image for biking section
-├── sport-2.jpg      # Image for paragliding section
-├── sport-3.jpg      # Image for surfing section
+**Project Structure**:
+
+    parallax-website/
+    │
+    ├── index.html       # Main HTML file for the website
+    ├── parallax.css     # Custom CSS file for styling and parallax effect
+    ├── background.png   # Background image used in the parallax container
+    ├── foreground.png   # Foreground image used in the parallax container
+    ├── sport-1.jpg      # Image for biking section
+    ├── sport-2.jpg      # Image for paragliding section
+    ├── sport-3.jpg      # Image for surfing section
+
 Technologies Used
 HTML5: Markup for structuring the webpage.
 Tailwind CSS: Utility-first CSS framework for styling.
